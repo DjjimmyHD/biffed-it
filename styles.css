@@ -1,0 +1,12 @@
+header{
+    width: 100vw;
+    height: 30vh;
+    background-color: seagreen;
+    color: white;
+}
+
+ul {
+    width: 50vw;
+    background-color: black;
+    color: white;
+}
